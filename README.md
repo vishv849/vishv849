@@ -8,9 +8,11 @@
 ---
 
 ## 🧑‍💻 About Me  
+- 🎓 B.Tech @ K J Somaiya Institute of Technology (GPA: 8.24)  
 - ☁️ AWS Certified Cloud Practitioner  
 - 🧠 Passionate about **System Design & Scalable Architectures**  
 - 💻 Building **StoGrow** & AI-based platforms  
+- 🎥 Sharing knowledge on YouTube  
 - 🚀 Focused on Backend + Cloud + Real-world projects  
 
 ---
@@ -41,12 +43,10 @@
 ### 🤖 AI Mock Interview Platform  
 - AI-based interview simulation  
 - Speech-to-text + feedback system  
-- Built using modern AI APIs  
 
 ### 📄 ATS Resume Builder  
 - AI-powered resume generator  
 - ATS-friendly formatting  
-- Smart keyword optimization  
 
 ---
 
@@ -55,19 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,aws,git,github,vscode,figma" />
 </p>
-
----
-
-## 📜 Certifications  
-- ☁️ AWS Certified Cloud Practitioner  
-- 🖥 VMware  
-- 💾 Storage & Databases  
-
----
-
-## 🏆 Achievements  
-- 🎯 Student Council Crew (2023–2024)  
-- 📡 Member of IETE (2024–Present)  
 
 ---
 
@@ -94,8 +81,11 @@
   <a href="mailto:vishva.c@somaiya.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@vishvachavan192">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
