@@ -8,7 +8,6 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 B.Tech @ K J Somaiya Institute of Technology (GPA: 8.24)  
 - ☁️ AWS Certified Cloud Practitioner  
 - 🧠 Passionate about **System Design & Scalable Architectures**  
 - 💻 Building **StoGrow** & AI-based platforms  
